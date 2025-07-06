@@ -1,18 +1,29 @@
-# 🧠 Coach AI
+# Takım ismi
 
-Yapay zeka destekli kişisel fitness koçu.  
-Coach AI, kullanıcıların yaş, boy, kilo ve hedeflerine göre günlük antrenman ve motivasyon önerileri sunarak, evde kişisel gelişimi kolaylaştıran bir yapay zeka uygulamasıdır.
+Yapay Zeka Grup 159
 
----
+# Takım Üyeleri
 
-## 🎯 Amaç
+Safiye Alaca
+
+Hilal Doganer
+
+Oğuz Kuşeli
+
+Emir Efe Yurtseven
+
+Enes Çiçek
+
+# Proje İsmi 
+
+🧠 Coach AI
+
+# Açıklama
 
 Coach AI'nin temel hedefi:
 - Kullanıcıların daha verimli ve hızlı gelişmesini sağlamak
 - Antrenör ihtiyacını azaltarak maddi gideri ortadan kaldırmak
 - Kişiselleştirilmiş günlük egzersiz planı, motivasyon mesajı ve gelişim takibi sunmak
-
----
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -22,7 +33,11 @@ Coach AI'nin temel hedefi:
 - **CORS Middleware**  
 - **RESTful API** yapısı
 
----
+#SPRINT 1 
+
+- Temel olarak projede nasıl ilerleneceği konuşuldu.
+- Görev dağılımı yapıldı
+- proje hazır olmasa da ayağa kaldırıldı.
 
 ## 📸 Demo
 
@@ -40,4 +55,3 @@ Coach AI'nin temel hedefi:
     "goal": "kilo vermek"
   }
 }
-
