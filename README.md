@@ -33,7 +33,7 @@ Coach AI'nin temel hedefi:
 - **CORS Middleware**  
 - **RESTful API** yapısı
 
-#SPRINT 1 
+# SPRINT 1 
 
 - Temel olarak projede nasıl ilerleneceği konuşuldu.
 - Görev dağılımı yapıldı
